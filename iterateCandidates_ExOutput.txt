@@ -1,0 +1,124 @@
+candidate: 1
+findMajority( 0, 7 )
+findMajority( 0, 3 )
+findMajority( 0, 1 )
+findMajority( 0, 0 )
+return: 1
+findMajority( 1, 1 )
+return: 0
+return: 1
+findMajority( 2, 3 )
+findMajority( 2, 2 )
+return: 0
+findMajority( 3, 3 )
+return: 0
+return: 0
+return: 1
+findMajority( 4, 7 )
+findMajority( 4, 5 )
+findMajority( 4, 4 )
+return: 1
+findMajority( 5, 5 )
+return: 0
+return: 1
+findMajority( 6, 7 )
+findMajority( 6, 6 )
+return: 0
+findMajority( 7, 7 )
+return: 0
+return: 0
+return: 1
+return: 2
+candidate: 2
+findMajority( 0, 7 )
+findMajority( 0, 3 )
+findMajority( 0, 1 )
+findMajority( 0, 0 )
+return: 0
+findMajority( 1, 1 )
+return: 1
+return: 1
+findMajority( 2, 3 )
+findMajority( 2, 2 )
+return: 1
+findMajority( 3, 3 )
+return: 0
+return: 1
+return: 2
+findMajority( 4, 7 )
+findMajority( 4, 5 )
+findMajority( 4, 4 )
+return: 0
+findMajority( 5, 5 )
+return: 0
+return: 0
+findMajority( 6, 7 )
+findMajority( 6, 6 )
+return: 0
+findMajority( 7, 7 )
+return: 0
+return: 0
+return: 0
+return: 2
+candidate: 2
+findMajority( 0, 7 )
+findMajority( 0, 3 )
+findMajority( 0, 1 )
+findMajority( 0, 0 )
+return: 0
+findMajority( 1, 1 )
+return: 1
+return: 1
+findMajority( 2, 3 )
+findMajority( 2, 2 )
+return: 1
+findMajority( 3, 3 )
+return: 0
+return: 1
+return: 2
+findMajority( 4, 7 )
+findMajority( 4, 5 )
+findMajority( 4, 4 )
+return: 0
+findMajority( 5, 5 )
+return: 0
+return: 0
+findMajority( 6, 7 )
+findMajority( 6, 6 )
+return: 0
+findMajority( 7, 7 )
+return: 0
+return: 0
+return: 0
+return: 2
+candidate: 4
+findMajority( 0, 7 )
+findMajority( 0, 3 )
+findMajority( 0, 1 )
+findMajority( 0, 0 )
+return: 0
+findMajority( 1, 1 )
+return: 0
+return: 0
+findMajority( 2, 3 )
+findMajority( 2, 2 )
+return: 0
+findMajority( 3, 3 )
+return: 1
+return: 1
+return: 1
+findMajority( 4, 7 )
+findMajority( 4, 5 )
+findMajority( 4, 4 )
+return: 0
+findMajority( 5, 5 )
+return: 1
+return: 1
+findMajority( 6, 7 )
+findMajority( 6, 6 )
+return: 1
+findMajority( 7, 7 )
+return: 1
+return: 2
+return: 3
+return: 4
